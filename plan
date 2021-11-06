@@ -1,0 +1,38 @@
+** things to practice on this tutorial
+Connect Database
+Create Database
+Drop Database
+use/Select Database
+Create Tables
+Drop Tables
+Insert Records
+Select Records
+Update Records
+Delete Records
+Where Clause
+Like Clause
+Sorting Data
+Using Joins
+Performing Transactions
+Handling Errors
+order by
+limit
+
+execute many
+
+discussing blob & better ways to handle pictures;
+	why you don't want to use blob
+
+*** bonus sections
+	mysql db backup
+        subprocess
+	reporting a table (excel or csv)
+        excel sheet module
+
+============= another video course/tutorial maybe
+** Aggregate functions
+avg
+count
+max
+min
+sum
